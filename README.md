@@ -1,4 +1,4 @@
-# dashboard-system
+# Dashboard System
 Simple Dashboard System Using HTML+CSS
 
 
